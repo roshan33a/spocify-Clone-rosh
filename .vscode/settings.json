@@ -1,0 +1,5 @@
+{
+    "scm.alwaysShowActions": true,
+    "scm.alwaysShowRepositories": false,
+    "git.ignoreLimitWarning": true
+}
